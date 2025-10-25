@@ -1,0 +1,21 @@
+{
+  "id": "d100-zero-to-ninety-nine",
+  "title": "D100 0-99 Roller",
+  "description": "Stellt sicher, dass d100-Würfe in Foundry VTT Ergebnisse zwischen 0 und 99 statt 1-100 anzeigen.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "tiloma" }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "scripts": [
+    "scripts/d100.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "manifest": "https://raw.githubusercontent.com/tiloma/d100-zero-to-ninety-nine/main/module.json",
+  "download": "https://github.com/tiloma/d100-zero-to-ninety-nine/archive/refs/heads/main.zip"
+}
